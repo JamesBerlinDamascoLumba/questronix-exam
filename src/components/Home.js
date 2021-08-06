@@ -8,7 +8,7 @@ class Home extends React.Component {
     return(
       <div className='page-container'>
         <div className='spacex-wallpaper'>
-          <div className='frame-container element-shadow'>
+          <div className='frame-container element-shadow m-1'>
             <img src={spacexWallpapaer} className='spacex-image' alt='wallpaper' />
           </div>
         </div>

@@ -19,8 +19,7 @@ class App extends React.Component {
           <Switch>
             <Route path='/' exact render={() => (<Home />)} />
             <Route path='/capsules' render={() => (<Capsules />)} />
-            <Route render={() => (<Notfound />)}
-            />
+            <Route render={() => (<Notfound />)} />
           </Switch>
         </div>
       </Router>
