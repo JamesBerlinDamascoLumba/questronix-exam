@@ -24,12 +24,12 @@ class SideBar extends React.Component {
           </li>
           <li className='menu-item'>
             <Link to={'#'}>
-              Item 1
+              Dragons
             </Link>
           </li>
           <li className='menu-item'>
             <Link to={'#'}>
-              Item 2
+              Rockets
             </Link>
           </li>
         </ul>
