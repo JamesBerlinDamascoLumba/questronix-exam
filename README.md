@@ -1,5 +1,5 @@
 Questronix Corporation  
-James Lumba ReactJS Exam  
+ReactJS Exam  
 August 3 2021, 11am - August 6 2021, 11am
 
 Fluid layout:  
